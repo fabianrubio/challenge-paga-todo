@@ -1,4 +1,4 @@
-challengePagaTodor
+challengePagaTodo
 =================
 
 Simple app that will show a List of Banks
