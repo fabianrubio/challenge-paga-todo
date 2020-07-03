@@ -99,8 +99,8 @@ const styles = StyleSheet.create({
     padding: 5,
     elevation: 5,
     shadowColor: '#000',
-    shadowOffset: {width: 0, height: 50},
-    shadowOpacity: 0.5,
+    shadowOffset: {width: 0, height: 1},
+    shadowOpacity: 0.1,
     shadowRadius: 5,
   },
   mainTitle: {
@@ -113,7 +113,6 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   badgeStyle: {
-    padding: 10,
     backgroundColor: '#06bed6',
     fontFamily: 'Poppins-Regular',
   },
