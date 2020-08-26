@@ -13,13 +13,13 @@ Libraries Used
 [1]: https://reactnative.dev/docs/asyncstorage.html
 [2]: https://github.com/danilowoz/react-content-loader#gettingstarted
 
-## Instalación de dependencias
+## Installation of dependencies
 
 ```
 yarn
 ```
 
-## Correr
+## Run
 
 ```
 android: react-native run-android,
